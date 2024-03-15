@@ -2,7 +2,7 @@
 //  UIViewExtensions.swift
 //  MovieDetailsMVVM
 //
-//  Created by grinkonokolka on 29.062.2024.
+//  Created by grinkonokolka on 29.02.2024.
 //
 
 import Foundation
